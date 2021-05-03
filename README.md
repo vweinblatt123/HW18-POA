@@ -1,6 +1,7 @@
 # HW18-POA
 
 Node1: 0x5bcab7F4255496e0c5110990B492Da585994d1FD    password: node1
+
 Node2: 0x701CAA88a468a2f19Bb87B9067A4f45B0d38c386    password: node2
 
 ./geth --datadir node1 --unlock "0x5bcab7F4255496e0c5110990B492Da585994d1FD" --mine --rpc --allow-insecure-unlock
